@@ -2,7 +2,7 @@
   "name": "js-inflector",
   "version": "0.0.1",
   "description": "Basic naming utility for programmatically resolving plural, singular, capital, camel cased, and other word states. ",
-  "main": "inflector.js",
+  "main": "dist/js-inflector.js",
   "scripts": {
     "test": "gulp test"
   },
@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "bower": "^1.6.5",
-    "chai": "^3.4.0",
+    "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "gulp-browserify": "^0.5.1",
     "gulp-mocha": "^2.1.3",
