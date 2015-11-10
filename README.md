@@ -10,7 +10,7 @@ var inflector = require('js-inflector');
 var inflect = inflector.start();
 ```
 
-<h2>Examples:</h2>
+<h2>Examples</h2>
 ```node
 var someValue = 'tree';
 ```
