@@ -45,10 +45,10 @@ var pluralAndCapital = inflect(someValue, 'properPlural');
 ```
 
 <h2>Word States</h2>
-- <b>camelCase</b> (camelcase | camel)
+- <b>camelcase</b> (camelcase | camel)
 - <b>capitalize</b> (cap | caps)
-- <b>deCapitalize</b> (decapitalize | decap)
-- <b>lowerCase</b> (lowercase | lower)
+- <b>decapitalize</b> (decapitalize | decap)
+- <b>lowercase</b> (lowercase | lower)
 - <b>pluralize</b> (plural | many)
 - <b>singularize</b> (singular | single)
-- <b>upperCase</b> (uppercase | upper)
+- <b>uppercase</b> (uppercase | upper)
