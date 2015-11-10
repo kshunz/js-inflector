@@ -44,11 +44,11 @@ var pluralAndCapital = inflect(someValue, 'properPlural');
 //--> Trees
 ```
 
-##Word States
-- ###camelCase (camelcase | camel)
-- ###capitalize (cap)
-- ###deCapitalize (decapitalize | decap)
-- ###lowerCase (lowercase | lower)
-- ###pluralize (plural | many)
-- ###singularize (singular | single)
-- ###upperCase (uppercase | upper)
+<h2>Word States</h2>
+- <b>camelCase</b> (camelcase | camel)
+- <b>capitalize</b> (cap | caps)
+- <b>deCapitalize</b> (decapitalize | decap)
+- <b>lowerCase</b> (lowercase | lower)
+- <b>pluralize</b> (plural | many)
+- <b>singularize</b> (singular | single)
+- <b>upperCase</b> (uppercase | upper)
